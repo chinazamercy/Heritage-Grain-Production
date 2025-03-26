@@ -11,3 +11,5 @@ O
 contracts/growing-protocol.clar,5/0/5030fce86ec5c80fed211a51bc67c1816a5b47a0
 N
 tests/growing-protocol.test.ts,2/c/2cf909015e9bcd7fdbf92cf5ec43b7ddf581b0a6
+W
+'contracts/seed-purity-verification.clar,2/2/22858448e5a1eea820cf8d71065b3cb0c5ce2735
